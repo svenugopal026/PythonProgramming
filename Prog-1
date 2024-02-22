@@ -1,0 +1,83 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# # Basic Program
+
+# # Caculation Program
+
+# In[4]:
+
+
+2+2
+
+
+# # # Display Text Program
+
+# In[7]:
+
+
+print("hi")
+
+
+# # # Display Number
+
+# In[8]:
+
+
+p=5
+print(p)
+
+
+# In[9]:
+
+
+age=25
+print({65-age})
+
+
+# In[10]:
+
+
+name="Vardhaman College of Engineering"
+print(name)
+
+
+# In[18]:
+
+
+String1 = "GeeksForGeeks"
+print("Initial String: ") 
+print(String1) 
+print("\nFirst character of String is: ") 
+print(String1[4]) 
+print("\nLast character of String is: ") 
+print(String1[-5]) 
+
+
+# In[20]:
+
+
+a=input("Enter a Value")
+print("Entered Value is :",a)
+
+
+# In[23]:
+
+
+marks = input(marks)
+result = ""
+if marks < 30:
+   result = "Failed"
+elif marks > 75:
+   result = "Passed with distinction"
+else:
+   result = "Passed"
+
+print(result)
+
+
+# In[ ]:
+
+
+
+
